@@ -1,0 +1,8 @@
+Pages for Website:
+-- Entry Section
+-- About Us Section
+-- Video of Competition
+-- General FAQ
+-- Check out our stuff
+-- Footer
+--
