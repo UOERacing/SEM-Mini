@@ -4,5 +4,5 @@ Pages for Website:
 -- Video of Competition
 -- General FAQ
 -- Check out our stuff
+-- Downloads
 -- Footer
---
