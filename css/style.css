@@ -2629,3 +2629,9 @@ figure:hover figcaption, figure:focus figcaption {
   outline: none;
   background: rgba(0, 0, 0, 0.9);
 }
+
+#countdown {
+    font-family: "League Spartan", serif;
+    font-size: 60px;
+    margin-bottom: 0;
+}
