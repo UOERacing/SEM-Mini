@@ -75,11 +75,11 @@ figure, ol, p, ul {
 a {
     -webkit-transition: .3s all;
     transition: .3s all;
-    color: #22eaaa
+    color: #8f001a
 }
 
 a:focus, a:hover {
-    color: #22eaaa;
+    color: #8f001a;
     text-decoration: underline
 }
 
@@ -88,7 +88,7 @@ a.hover-reverse {
 }
 
 a.hover-reverse:active, a.hover-reverse:focus, a.hover-reverse:hover {
-    color: #22eaaa;
+    color: #8f001a;
     text-decoration: none
 }
 
@@ -250,7 +250,7 @@ a.hover-reverse:active, a.hover-reverse:focus, a.hover-reverse:hover {
 
 .probootstrap-main-nav li.probootstrap-cta a:hover {
     background: #fff;
-    color: #22eaaa
+    color: #8f001a
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li.probootstrap-cta {
@@ -264,7 +264,7 @@ a.hover-reverse:active, a.hover-reverse:focus, a.hover-reverse:hover {
 }
 
 .probootstrap-main-nav li.active a {
-    color: #22eaaa
+    color: #8f001a
 }
 
 .probootstrap-main-nav li.active a:hover {
@@ -272,7 +272,7 @@ a.hover-reverse:active, a.hover-reverse:focus, a.hover-reverse:hover {
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li.active a {
-    color: #22eaaa
+    color: #8f001a
 }
 
 .mobile-menu-overlay {
@@ -320,7 +320,7 @@ a.hover-reverse:active, a.hover-reverse:focus, a.hover-reverse:hover {
 
 .probootstrap-right-nav li a:hover {
     text-decoration: none !important;
-    color: #22eaaa
+    color: #8f001a
 }
 
 .probootstrap-burger-menu {
@@ -425,39 +425,39 @@ a.hover-reverse:active, a.hover-reverse:focus, a.hover-reverse:hover {
 }
 
 .btn.btn-primary {
-    border: 2px solid #22eaaa;
-    background: #22eaaa;
+    border: 2px solid #8f001a;
+    background: #8f001a;
     color: #fff
 }
 
 .btn.btn-primary:active, .btn.btn-primary:focus, .btn.btn-primary:hover {
-    background: #39ecb3;
+    background: #8f001a;
     color: #fff;
-    border: 2px solid #39ecb3
+    border: 2px solid #8f001a
 }
 
 .btn.btn-primary:active, .btn.btn-primary:focus {
     outline: 0;
-    border: 2px solid #39ecb3
+    border: 2px solid #8f001a
 }
 
 .btn.btn-ghost {
     background: 0 0;
-    border: 2px solid #22eaaa;
-    color: #22eaaa
+    border: 2px solid #8f001a;
+    color: #8f001a
 }
 
 .btn.btn-ghost:hover {
-    background: #22eaaa;
+    background: #8f001a;
     color: #fff;
-    border: 2px solid #22eaaa
+    border: 2px solid #8f001a
 }
 
 .btn.btn-ghost:active, .btn.btn-ghost:focus {
     outline: 0;
     background: 0 0;
-    color: #22eaaa;
-    border: 2px solid #22eaaa
+    color: #8f001a;
+    border: 2px solid #8f001a
 }
 
 .btn.btn-ghost.btn-ghost-white {
@@ -468,13 +468,13 @@ a.hover-reverse:active, a.hover-reverse:focus, a.hover-reverse:hover {
 
 .btn.btn-ghost.btn-ghost-white:hover {
     background: #fff;
-    color: #22eaaa
+    color: #8f001a
 }
 
 .btn.btn-ghost.btn-ghost-white:active, .btn.btn-ghost.btn-ghost-white:focus {
     outline: 0;
     background: #fff;
-    color: #22eaaa;
+    color: #8f001a;
     border: 2px solid #fff
 }
 
@@ -517,8 +517,8 @@ a.hover-reverse:active, a.hover-reverse:focus, a.hover-reverse:hover {
 
 .probootstrap-section.probootstrap-section-colored, .probootstrap-section.probootstrap-section-dark {
     background: #ddf0f3;
-    background: -webkit-gradient(linear, left top, right top, from(#ddf0f3), to(#22eaaa));
-    background: linear-gradient(to right, #ddf0f3 0, #22eaaa 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#ddf0f3), to(#8f001a));
+    background: linear-gradient(to right, #ddf0f3 0, #8f001a 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=$ firstcolor, endColorstr=$ secondcolor, GradientType=1)
 }
 
@@ -531,7 +531,7 @@ a.hover-reverse:active, a.hover-reverse:focus, a.hover-reverse:hover {
 }
 
 .probootstrap-section.probootstrap-section-colored .heading-with-icon, .probootstrap-section.probootstrap-section-colored .heading-with-icon i, .probootstrap-section.probootstrap-section-dark .heading-with-icon, .probootstrap-section.probootstrap-section-dark .heading-with-icon i {
-    color: #22eaaa
+    color: #8f001a
 }
 
 .probootstrap-section.probootstrap-section-colored p, .probootstrap-section.probootstrap-section-dark .section-heading h2, .probootstrap-section.probootstrap-section-dark p {
@@ -714,7 +714,7 @@ a.hover-reverse:active, a.hover-reverse:focus, a.hover-reverse:hover {
 .probootstrap-footer.probootstrap-bg:before {
     position: absolute;
     content: "";
-    background: #22eaaa;
+    background: #8f001a;
     top: 0;
     left: 0;
     right: 0;
@@ -925,7 +925,7 @@ figure:focus figcaption, figure:hover figcaption {
 }
 
 .probootstrap-panel .panel .panel-heading a[aria-expanded=true] {
-    color: #22eaaa
+    color: #8f001a
 }
 
 .probootstrap-panel .panel .panel-heading a[aria-expanded=true]:after {
@@ -1053,7 +1053,7 @@ figure:focus figcaption, figure:hover figcaption {
 }
 
 .probootstrap-card .probootstrap-card-media.colored .svg {
-    fill: #22eaaa
+    fill: #8f001a
 }
 
 .probootstrap-card .probootstrap-card-text {
@@ -1111,7 +1111,7 @@ figure:focus figcaption, figure:hover figcaption {
     top: 0;
     left: 0;
     width: 100%;
-    background: #22eaaa;
+    background: #8f001a;
     -webkit-transition: .2s all ease-out;
     transition: .2s all ease-out
 }
@@ -1337,7 +1337,7 @@ figure:focus figcaption, figure:hover figcaption {
     line-height: 25px;
     text-align: center;
     border-radius: 50%;
-    background: #22eaaa;
+    background: #8f001a;
     color: #fff
 }
 
@@ -1399,7 +1399,7 @@ figure:focus figcaption, figure:hover figcaption {
     background-repeat: no-repeat;
     -webkit-transition: .8s all ease-in-out;
     transition: .8s all ease-in-out;
-    background-color: #22eaaa
+    background-color: #8f001a
 }
 
 .probootstrap-half .text {
@@ -1464,7 +1464,7 @@ figure:focus figcaption, figure:hover figcaption {
 .probootstrap-half .btn-ghost-white:active, .probootstrap-half .btn-ghost-white:focus, .probootstrap-half .btn-ghost-white:hover {
     background: 0 0 !important;
     color: #fff !important;
-    border-color: #22eaaa !important
+    border-color: #8f001a !important
 }
 
 .probootstrap-half .service-item {
@@ -1627,7 +1627,7 @@ figure:focus figcaption, figure:hover figcaption {
     border: none;
     margin-bottom: 30px;
     display: table;
-    background: #22eaaa
+    background: #8f001a
 }
 
 .service.left-icon .icon, .service.left-icon .text {
@@ -1641,7 +1641,7 @@ figure:focus figcaption, figure:hover figcaption {
     position: relative;
     top: 0;
     border: none;
-    color: #000
+    color: #FFF
 }
 
 .service.left-icon .icon i {
@@ -1720,7 +1720,7 @@ figure:focus figcaption, figure:hover figcaption {
 .probootstrap-form .form-control:active, .probootstrap-form .form-control:focus {
     -webkit-box-shadow: none;
     box-shadow: none;
-    border-color: #22eaaa
+    border-color: #8f001a
 }
 
 .probootstrap-form textarea.form-control {
@@ -1764,7 +1764,7 @@ figure:focus figcaption, figure:hover figcaption {
 }
 
 .with-icon.colored i {
-    color: #22eaaa
+    color: #8f001a
 }
 
 .probootstrap-section-heading .sub-heading {
@@ -2381,7 +2381,7 @@ figure:focus figcaption, figure:hover figcaption {
 }
 
 .probootstrap-primary-color {
-    color: #22eaaa !important
+    color: #8f001a !important
 }
 
 .probootstrap-secondary-color {
@@ -2454,7 +2454,7 @@ figure:focus figcaption, figure:hover figcaption {
 }
 
 #countdown {
-    font-family: "League Spartan";
+    font-family: "Oswald";
     font-size: 60px;
     margin-bottom: 0;
 }
