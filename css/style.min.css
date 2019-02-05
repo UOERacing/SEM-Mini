@@ -2458,3 +2458,10 @@ figure:focus figcaption, figure:hover figcaption {
     font-size: 60px;
     margin-bottom: 0;
 }
+
+.french {
+    right: 2em;
+    top: 4em;
+    position: fixed;
+    z-index: 9999
+}
