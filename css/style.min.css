@@ -126,7 +126,7 @@ a.hover-reverse:active, a.hover-reverse:focus, a.hover-reverse:hover {
     margin-top: 12px;
     text-align: left;
     float: left;
-    width: calc(100% - 250px);
+    width: calc(100%);
     position: relative
 }
 
@@ -997,7 +997,7 @@ figure:focus figcaption, figure:hover figcaption {
     z-index: 99;
     position: relative;
     padding-top: 200px;
-    max-width: 700px;
+    max-width: 850px;
     margin: 0 auto
 }
 
