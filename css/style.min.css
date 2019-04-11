@@ -2453,7 +2453,7 @@ figure:focus figcaption, figure:hover figcaption {
     background: rgba(0, 0, 0, .9)
 }
 
-#countdown {
+#countdown, #coming-soon {
     font-family: "Oswald";
     font-size: 60px;
     margin-bottom: 0;
