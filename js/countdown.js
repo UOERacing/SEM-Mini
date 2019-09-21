@@ -1,10 +1,10 @@
 // Set the date we're counting down to
-let countDownDate = new Date("April 27, 2019 14:00:00").getTime();
+let countDownDate = new Date("April 24, 2020 08:00:00").getTime();
 
 // Update the count down every 1 second
 let x = setInterval(function () {
 
-    // Get todays date and time
+    // Get current date and time
     let now = new Date().getTime();
 
     // Find the distance between now and the count down date
